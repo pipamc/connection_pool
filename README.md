@@ -1,4 +1,5 @@
 Why need connection pool ?
+
 Connection pool is a cache of database
 connections maintained so that the connection
 can be reused when future requests to the database
